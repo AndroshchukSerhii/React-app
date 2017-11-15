@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+
+.App .Green:hover {
+    background-color: lightgreen;
+}
+.App .Red:hover {
+  background-color: darkred;
+}
+.bold {
+  font-weight: 500;
+}
